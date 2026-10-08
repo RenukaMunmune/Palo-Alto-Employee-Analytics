@@ -47,7 +47,7 @@ The analysis verified:
 - Attrition values: **0/1**
 - Overtime values: **Yes/No**
 
-The original CSV dataset is excluded from the public GitHub repository using `.gitignore`.
+The dataset is included in the public GitHub repository because it is required for the Streamlit dashboard deployment.
 
 ## 🔬 Methodology
 
@@ -159,6 +159,14 @@ At the default threshold of 2.50:
 
 This group is intended for analytical prioritization and is not a medical or psychological classification.
 
+## 🌐 Live Dashboard
+
+🚀 **Interactive Streamlit Dashboard:**
+
+https://palo-alto-employee-analytics-tex85jepadjed7v9rm4kky.streamlit.app/
+
+The live dashboard provides interactive analysis of employee engagement, satisfaction, burnout risk, work-life balance, workload stress, career stage, and attrition.
+
 ## 📊 Streamlit Dashboard
 
 The interactive dashboard is organized into the following analytical modules:
@@ -226,3 +234,4 @@ Palo-Alto-Employee-Analytics/
 ├── app.py
 ├── README.md
 └── .gitignore
+
