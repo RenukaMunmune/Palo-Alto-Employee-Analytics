@@ -239,7 +239,7 @@ Palo-Alto-Employee-Analytics/
 
 ## Research Publication
 
-**Published Research Paper:** Employee Engagement, Satisfaction, and Burnout-Risk Diagnostic Analysis Using an HR Analytics Dataset
+Published Research Paper: Employee Engagement, Satisfaction, and Burnout-Risk Diagnostic Analysis Using an HR Analytics Dataset
 
-- **Repository:** [Zenodo](https://zenodo.org/records/23261169)
-- **DOI:** [10.5281/zenodo.23261169](https://doi.org/10.5281/zenodo.23261169)
+- Repository: [Zenodo](https://zenodo.org/records/23261169)
+- DOI: [10.5281/zenodo.23261169](https://doi.org/10.5281/zenodo.23261169)
